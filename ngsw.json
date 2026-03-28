@@ -1,0 +1,73 @@
+{
+  "configVersion": 1,
+  "timestamp": 1774723818404,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/index.html",
+        "/main-WTFMMT7L.js",
+        "/manifest.webmanifest",
+        "/styles-JTQHSPON.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/fonts/Inter-Bold.woff2",
+        "/fonts/Inter-Regular.woff2",
+        "/fonts/JetBrainsMono-Regular.woff2",
+        "/valtix-logo-icon.png",
+        "/valtix-logo.svg",
+        "/valtix-presence-logo.png",
+        "/valtix-presence-logo.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/fonts/Inter-Bold.woff2": "5cbf10e9f8be7dac2a365bfb21fe6ddf4641e569",
+    "/fonts/Inter-Regular.woff2": "b7a0b6fbebc40eb29b76cf135c4b7be50b981b4b",
+    "/fonts/JetBrainsMono-Regular.woff2": "b7fdfcb88b9504d161f9007fb2eceb205275bea3",
+    "/index.html": "89eaf300d88778261744c1880021c139b5fab560",
+    "/main-WTFMMT7L.js": "4810cb370bf09e77e3939b0675d6c7c8a30d15d5",
+    "/manifest.webmanifest": "86e41752d0d9ed52bb48da8fcd78c6b71bc809c6",
+    "/styles-JTQHSPON.css": "93b989eab2f3c88b5b86589082d604fcaad09ead",
+    "/valtix-logo-icon.png": "a8316ec86c7673bdc80c59949e785893eacf79d2",
+    "/valtix-logo.svg": "6248d2dbc1dbb1097313d06771f6a43f98d46db5",
+    "/valtix-presence-logo.png": "9aaa892ce9f3089fac77f49cd28cfe9ac336fb67",
+    "/valtix-presence-logo.svg": "e6ab388ff59fe6c4303ec6224e51921e77fac533"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
