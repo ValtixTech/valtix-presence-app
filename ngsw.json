@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777587540486,
+  "timestamp": 1777587959770,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main-4OSW5YF6.js",
+        "/main-RZZP6ZYS.js",
         "/manifest.webmanifest",
         "/styles-RRNP3T2E.css"
       ],
@@ -62,10 +62,10 @@
     "/fonts/Inter-Bold.woff2": "5cbf10e9f8be7dac2a365bfb21fe6ddf4641e569",
     "/fonts/Inter-Regular.woff2": "b7a0b6fbebc40eb29b76cf135c4b7be50b981b4b",
     "/fonts/JetBrainsMono-Regular.woff2": "b7fdfcb88b9504d161f9007fb2eceb205275bea3",
-    "/index.html": "385d58604c70cff27dfd31b1aa1bb706e88b28c0",
+    "/index.html": "8f41646c18cc6e401d2e7ceeaa8abd619c6db257",
     "/logo-192.png": "9ce06258eb15298ef601a1442cffa1894a7f33c1",
     "/logo-512.png": "8e6430ca5d0a3bf197d24c54e49f55733f7671f7",
-    "/main-4OSW5YF6.js": "5ebeda55acc1c4adf51220843221daf01d14febf",
+    "/main-RZZP6ZYS.js": "dea3d716a51a7c6b6527182b891424af1d83e302",
     "/manifest.webmanifest": "86e41752d0d9ed52bb48da8fcd78c6b71bc809c6",
     "/media/layers-2x-TBM42ERR.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/media/layers-55W3Q4RM.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
